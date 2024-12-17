@@ -1,0 +1,1 @@
+import{La as o,Ma as s,U as a,Xa as r,_a as p}from"./chunk-DC73RQQV.js";var t=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=a({type:n,selectors:[["app-waters"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),r(1,"waters works!"),s())}})};export{t as default};

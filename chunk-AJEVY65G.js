@@ -1,0 +1,1 @@
+import{La as a,Ma as s,U as n,Xa as i,_a as r}from"./chunk-DC73RQQV.js";var e=class o{static \u0275fac=function(t){return new(t||o)};static \u0275cmp=n({type:o,selectors:[["app-tutorials"]],standalone:!0,features:[r],decls:2,vars:0,template:function(t,p){t&1&&(a(0,"p"),i(1,"tutorials works!"),s())}})};export{e as default};
